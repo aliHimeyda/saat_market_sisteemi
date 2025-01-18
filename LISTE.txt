@@ -1,0 +1,636 @@
+ +--------------+
+ | SAAT KÖÞESÝ  |
+ +--------------+
+
+
+ÜRÜNLER LÝSTESÝ :
+1. ÜRÜN 
++----------------------------------+
+| ÝD : 123_333_239
+| MARKA : casio
+| MODEL : MO923D
+| MALÝYET : 500 TL
+| FÝYATI : 2250 TL
+| ÜRETÝM TARÝHÝ : 12.03.2002
+| CÝNSÝYET : kadýn
+| MEKANÝZMA : dijital
+| RENK : kýrmýzý
+| PÝL KAPASÝTESÝ : 3400 mAh
+| SUYA DAYANIKLIK : 5 ATM
+| GECE IÞIÐI : var
+| KASA ÇAPI : 39mm
+| KASA MATERYALI : silikon
+| KORDON MATERYALI : çelik
+| AÐIRLIK : 50 G
+| DEÐEERLENDÝRME : 4****
+| SATILMA SAYISI : 0
++----------------------------------+
+2. ÜRÜN 
++----------------------------------+
+| ÝD : 456_789_101
+| MARKA : rolex
+| MODEL : Submariner
+| MALÝYET : 600 TL
+| FÝYATI : 2700 TL
+| ÜRETÝM TARÝHÝ : 25.06.2005
+| CÝNSÝYET : erkek
+| MEKANÝZMA : mekanik
+| RENK : siyah
+| PÝL KAPASÝTESÝ : 4000 mAh
+| SUYA DAYANIKLIK : 10 ATM
+| GECE IÞIÐI : yok
+| KASA ÇAPI : 42mm
+| KASA MATERYALI : paslanmaz çelik
+| KORDON MATERYALI : deri
+| AÐIRLIK : 60 G
+| DEÐEERLENDÝRME : 5*****
+| SATILMA SAYISI : 0
++----------------------------------+
+3. ÜRÜN 
++----------------------------------+
+| ÝD : 789_103_654
+| MARKA : seiko
+| MODEL : SKX007
+| MALÝYET : 300 TL
+| FÝYATI : 1800 TL
+| ÜRETÝM TARÝHÝ : 30.11.2008
+| CÝNSÝYET : unisex
+| MEKANÝZMA : mekanik
+| RENK : mavi
+| PÝL KAPASÝTESÝ : 3500 mAh
+| SUYA DAYANIKLIK : 5 ATM
+| GECE IÞIÐI : var
+| KASA ÇAPI : 38mm
+| KASA MATERYALI : paslanmaz çelik
+| KORDON MATERYALI : kauçuk
+| AÐIRLIK : 55 G
+| DEÐEERLENDÝRME : 4****
+| SATILMA SAYISI : 0
++----------------------------------+
+4. ÜRÜN 
++----------------------------------+
+| ÝD : 301_654_987
+| MARKA : omega
+| MODEL : Speedmaster
+| MALÝYET : 800 TL
+| FÝYATI : 3750 TL
+| ÜRETÝM TARÝHÝ : 15.09.2010
+| CÝNSÝYET : erkek
+| MEKANÝZMA : otomatik
+| RENK : gri
+| PÝL KAPASÝTESÝ : 4500 mAh
+| SUYA DAYANIKLIK : 10 ATM
+| GECE IÞIÐI : var
+| KASA ÇAPI : 44mm
+| KASA MATERYALI : paslanmaz çelik
+| KORDON MATERYALI : metal
+| AÐIRLIK : 70 G
+| DEÐEERLENDÝRME : 4****
+| SATILMA SAYISI : 0
++----------------------------------+
+5. ÜRÜN 
++----------------------------------+
+| ÝD : 654_907_321
+| MARKA : omega
+| MODEL : Aquaracer
+| MALÝYET : 700 TL
+| FÝYATI : 3000 TL
+| ÜRETÝM TARÝHÝ : 02.04.2012
+| CÝNSÝYET : kadýn
+| MEKANÝZMA : kuarz
+| RENK : beyaz
+| PÝL KAPASÝTESÝ : 3800 mAh
+| SUYA DAYANIKLIK : 5 ATM
+| GECE IÞIÐI : yok
+| KASA ÇAPI : 40mm
+| KASA MATERYALI : seramik
+| KORDON MATERYALI : silikon
+| AÐIRLIK : 65 G
+| DEÐEERLENDÝRME : 4****
+| SATILMA SAYISI : 0
++----------------------------------+
+6. ÜRÜN 
++----------------------------------+
+| ÝD : 987_311_654
+| MARKA : casio
+| MODEL : G-Shock
+| MALÝYET : 500 TL
+| FÝYATI : 2250 TL
+| ÜRETÝM TARÝHÝ : 18.07.2014
+| CÝNSÝYET : unisex
+| MEKANÝZMA : dijital
+| RENK : sarý
+| PÝL KAPASÝTESÝ : 5000 mAh
+| SUYA DAYANIKLIK : 20 ATM
+| GECE IÞIÐI : var
+| KASA ÇAPI : 48mm
+| KASA MATERYALI : plastik
+| KORDON MATERYALI : kauçuk
+| AÐIRLIK : 75 G
+| DEÐEERLENDÝRME : 4****
+| SATILMA SAYISI : 0
++----------------------------------+
+7. ÜRÜN 
++----------------------------------+
+| ÝD : 147_258_309
+| MARKA : fossil
+| MODEL : Navitimer
+| MALÝYET : 1000 TL
+| FÝYATI : 4500 TL
+| ÜRETÝM TARÝHÝ : 22.10.2016
+| CÝNSÝYET : erkek
+| MEKANÝZMA : otomatik
+| RENK : kahverengi
+| PÝL KAPASÝTESÝ : 4800 mAh
+| SUYA DAYANIKLIK : 10 ATM
+| GECE IÞIÐI : var
+| KASA ÇAPI : 46mm
+| KASA MATERYALI : paslanmaz çelik
+| KORDON MATERYALI : deri
+| AÐIRLIK : 80 G
+| DEÐEERLENDÝRME : 5*****
+| SATILMA SAYISI : 0
++----------------------------------+
+8. ÜRÜN 
++----------------------------------+
+| ÝD : 208_369_147
+| MARKA : fossil
+| MODEL : Grant
+| MALÝYET : 400 TL
+| FÝYATI : 1500 TL
+| ÜRETÝM TARÝHÝ : 14.12.2018
+| CÝNSÝYET : kadýn
+| MEKANÝZMA : kuarz
+| RENK : bordo
+| PÝL KAPASÝTESÝ : 3200 mAh
+| SUYA DAYANIKLIK : 3 ATM
+| GECE IÞIÐI : yok
+| KASA ÇAPI : 36mm
+| KASA MATERYALI : paslanmaz çelik
+| KORDON MATERYALI : deri
+| AÐIRLIK : 45 G
+| DEÐEERLENDÝRME : 3***
+| SATILMA SAYISI : 0
++----------------------------------+
+9. ÜRÜN 
++----------------------------------+
+| ÝD : 399_147_258
+| MARKA : seiko
+| MODEL : Eco-Drive
+| MALÝYET : 700 TL
+| FÝYATI : 3000 TL
+| ÜRETÝM TARÝHÝ : 08.05.2020
+| CÝNSÝYET : unisex
+| MEKANÝZMA : kuarz
+| RENK : yeþil
+| PÝL KAPASÝTESÝ : 3600 mAh
+| SUYA DAYANIKLIK : 5 ATM
+| GECE IÞIÐI : var
+| KASA ÇAPI : 38mm
+| KASA MATERYALI : titanyum
+| KORDON MATERYALI : nylon
+| AÐIRLIK : 55 G
+| DEÐEERLENDÝRME : 4****
+| SATILMA SAYISI : 0
++----------------------------------+
+10. ÜRÜN 
++----------------------------------+
+| ÝD : 951_753_822
+| MARKA : omega
+| MODEL : Big Bang
+| MALÝYET : 800 TL
+| FÝYATI : 4200 TL
+| ÜRETÝM TARÝHÝ : 01.08.2015
+| CÝNSÝYET : kadýn
+| MEKANÝZMA : otomatik
+| RENK : mor
+| PÝL KAPASÝTESÝ : 4200 mAh
+| SUYA DAYANIKLIK : 10 ATM
+| GECE IÞIÐI : yok
+| KASA ÇAPI : 44mm
+| KASA MATERYALI : seramik
+| KORDON MATERYALI : kauçuk
+| AÐIRLIK : 70 G
+| DEÐEERLENDÝRME : 5*****
+| SATILMA SAYISI : 0
++----------------------------------+
+11. ÜRÜN 
++----------------------------------+
+| ÝD : 753_971_852
+| MARKA : rolex
+| MODEL : Luminor
+| MALÝYET : 900 TL
+| FÝYATI : 4050 TL
+| ÜRETÝM TARÝHÝ : 10.11.2013
+| CÝNSÝYET : erkek
+| MEKANÝZMA : otomatik
+| RENK : turuncu
+| PÝL KAPASÝTESÝ : 4500 mAh
+| SUYA DAYANIKLIK : 5 ATM
+| GECE IÞIÐI : var
+| KASA ÇAPI : 45mm
+| KASA MATERYALI : paslanmaz çelik
+| KORDON MATERYALI : deri
+| AÐIRLIK : 75 G
+| DEÐEERLENDÝRME : 4****
+| SATILMA SAYISI : 0
++----------------------------------+
+12. ÜRÜN 
++----------------------------------+
+| ÝD : 456_123_719
+| MARKA : rolex
+| MODEL : PRC 200
+| MALÝYET : 600 TL
+| FÝYATI : 2850 TL
+| ÜRETÝM TARÝHÝ : 28.03.2017
+| CÝNSÝYET : unisex
+| MEKANÝZMA : kuarz
+| RENK : beyaz
+| PÝL KAPASÝTESÝ : 3900 mAh
+| SUYA DAYANIKLIK : 3 ATM
+| GECE IÞIÐI : yok
+| KASA ÇAPI : 41mm
+| KASA MATERYALI : paslanmaz çelik
+| KORDON MATERYALI : deri
+| AÐIRLIK : 60 G
+| DEÐEERLENDÝRME : 4****
+| SATILMA SAYISI : 0
++----------------------------------+
+13. ÜRÜN 
++----------------------------------+
+| ÝD : 719_456_123
+| MARKA : seiko
+| MODEL : Master Collection
+| MALÝYET : 900 TL
+| FÝYATI : 4800 TL
+| ÜRETÝM TARÝHÝ : 05.09.2019
+| CÝNSÝYET : erkek
+| MEKANÝZMA : otomatik
+| RENK : sarý
+| PÝL KAPASÝTESÝ : 4300 mAh
+| SUYA DAYANIKLIK : 5 ATM
+| GECE IÞIÐI : var
+| KASA ÇAPI : 43mm
+| KASA MATERYALI : paslanmaz çelik
+| KORDON MATERYALI : metal
+| AÐIRLIK : 80 G
+| DEÐEERLENDÝRME : 5*****
+| SATILMA SAYISI : 0
++----------------------------------+
+14. ÜRÜN 
++----------------------------------+
+| ÝD : 123_789_446
+| MARKA : casio
+| MODEL : Edifice
+| MALÝYET : 500 TL
+| FÝYATI : 2250 TL
+| ÜRETÝM TARÝHÝ : 17.06.2014
+| CÝNSÝYET : kadýn
+| MEKANÝZMA : kuarz
+| RENK : siyah
+| PÝL KAPASÝTESÝ : 3700 mAh
+| SUYA DAYANIKLIK : 3 ATM
+| GECE IÞIÐI : yok
+| KASA ÇAPI : 39mm
+| KASA MATERYALI : paslanmaz çelik
+| KORDON MATERYALI : silikon
+| AÐIRLIK : 50 G
+| DEÐEERLENDÝRME : 4****
+| SATILMA SAYISI : 0
++----------------------------------+
+15. ÜRÜN 
++----------------------------------+
+| ÝD : 156_789_123
+| MARKA : seiko
+| MODEL : Presage
+| MALÝYET : 700 TL
+| FÝYATI : 3300 TL
+| ÜRETÝM TARÝHÝ : 11.12.2016
+| CÝNSÝYET : unisex
+| MEKANÝZMA : otomatik
+| RENK : gri
+| PÝL KAPASÝTESÝ : 4000 mAh
+| SUYA DAYANIKLIK : 5 ATM
+| GECE IÞIÐI : var
+| KASA ÇAPI : 42mm
+| KASA MATERYALI : paslanmaz çelik
+| KORDON MATERYALI : deri
+| AÐIRLIK : 65 G
+| DEÐEERLENDÝRME : 4****
+| SATILMA SAYISI : 0
++----------------------------------+
+16. ÜRÜN 
++----------------------------------+
+| ÝD : 689_123_456
+| MARKA : fossil
+| MODEL : Promaster
+| MALÝYET : 800 TL
+| FÝYATI : 3750 TL
+| ÜRETÝM TARÝHÝ : 30.04.2018
+| CÝNSÝYET : erkek
+| MEKANÝZMA : dijital
+| RENK : mavi
+| PÝL KAPASÝTESÝ : 4200 mAh
+| SUYA DAYANIKLIK : 10 ATM
+| GECE IÞIÐI : var
+| KASA ÇAPI : 44mm
+| KASA MATERYALI : titanyum
+| KORDON MATERYALI : kauçuk
+| AÐIRLIK : 70 G
+| DEÐEERLENDÝRME : 5*****
+| SATILMA SAYISI : 0
++----------------------------------+
+17. ÜRÜN 
++----------------------------------+
+| ÝD : 123_456_289
+| MARKA : timex
+| MODEL : Weekender
+| MALÝYET : 600 TL
+| FÝYATI : 2700 TL
+| ÜRETÝM TARÝHÝ : 02.02.2015
+| CÝNSÝYET : kadýn
+| MEKANÝZMA : kuarz
+| RENK : kahverengi
+| PÝL KAPASÝTESÝ : 3500 mAh
+| SUYA DAYANIKLIK : 3 ATM
+| GECE IÞIÐI : yok
+| KASA ÇAPI : 38mm
+| KASA MATERYALI : paslanmaz çelik
+| KORDON MATERYALI : deri
+| AÐIRLIK : 55 G
+| DEÐEERLENDÝRME : 3***
+| SATILMA SAYISI : 0
++----------------------------------+
+18. ÜRÜN 
++----------------------------------+
+| ÝD : 780_456_123
+| MARKA : casio
+| MODEL : Pro Trek
+| MALÝYET : 700 TL
+| FÝYATI : 3000 TL
+| ÜRETÝM TARÝHÝ : 19.08.2019
+| CÝNSÝYET : unisex
+| MEKANÝZMA : dijital
+| RENK : yeþil
+| PÝL KAPASÝTESÝ : 3800 mAh
+| SUYA DAYANIKLIK : 5 ATM
+| GECE IÞIÐI : var
+| KASA ÇAPI : 41mm
+| KASA MATERYALI : plastik
+| KORDON MATERYALI : kauçuk
+| AÐIRLIK : 60 G
+| DEÐEERLENDÝRME : 4****
+| SATILMA SAYISI : 0
++----------------------------------+
+19. ÜRÜN 
++----------------------------------+
+| ÝD : 456_123_780
+| MARKA : gucci
+| MODEL : G-Timeless
+| MALÝYET : 800 TL
+| FÝYATI : 4200 TL
+| ÜRETÝM TARÝHÝ : 24.01.2017
+| CÝNSÝYET : kadýn
+| MEKANÝZMA : kuarz
+| RENK : siyah
+| PÝL KAPASÝTESÝ : 3900 mAh
+| SUYA DAYANIKLIK : 3 ATM
+| GECE IÞIÐI : yok
+| KASA ÇAPI : 40mm
+| KASA MATERYALI : paslanmaz çelik
+| KORDON MATERYALI : deri
+| AÐIRLIK : 65 G
+| DEÐEERLENDÝRME : 5*****
+| SATILMA SAYISI : 0
++----------------------------------+
+20. ÜRÜN 
++----------------------------------+
+| ÝD : 780_123_666
+| MARKA : patek philippe
+| MODEL : Nautilus
+| MALÝYET : 1100 TL
+| FÝYATI : 4500 TL
+| ÜRETÝM TARÝHÝ : 09.07.2021
+| CÝNSÝYET : kadin
+| MEKANÝZMA : otomatik
+| RENK : siyah
+| PÝL KAPASÝTESÝ : 4100 mAh
+| SUYA DAYANIKLIK : 10 ATM
+| GECE IÞIÐI : yok
+| KASA ÇAPI : 43mm
+| KASA MATERYALI : paslanmaz çelik
+| KORDON MATERYALI : deri
+| AÐIRLIK : 75 G
+| DEÐEERLENDÝRME : 5*****
+| SATILMA SAYISI : 0
++----------------------------------+
+21. ÜRÜN 
++----------------------------------+
+| ÝD : 553_997_001
+| MARKA : casio
+| MODEL : Nautilus
+| MALÝYET : 1100 TL
+| FÝYATI : 3000 TL
+| ÜRETÝM TARÝHÝ : 09.07.2021
+| CÝNSÝYET : erkek
+| MEKANÝZMA : otomatik
+| RENK : beyaz
+| PÝL KAPASÝTESÝ : 4100 mAh
+| SUYA DAYANIKLIK : 10 ATM
+| GECE IÞIÐI : yok
+| KASA ÇAPI : 43mm
+| KASA MATERYALI : paslanmaz celik
+| KORDON MATERYALI : deri
+| AÐIRLIK : 75 G
+| DEÐEERLENDÝRME : 5*****
+| SATILMA SAYISI : 0
++----------------------------------+
+22. ÜRÜN 
++----------------------------------+
+| ÝD : 553_997_002
+| MARKA : seiko
+| MODEL : Presage
+| MALÝYET : 900 TL
+| FÝYATI : 2500 TL
+| ÜRETÝM TARÝHÝ : 15.08.2022
+| CÝNSÝYET : kadÄ±n
+| MEKANÝZMA : quartz
+| RENK : siyah
+| PÝL KAPASÝTESÝ : 3800 mAh
+| SUYA DAYANIKLIK : 5 ATM
+| GECE IÞIÐI : evet
+| KASA ÇAPI : 39mm
+| KASA MATERYALI : titanyum
+| KORDON MATERYALI : silikon
+| AÐIRLIK : 68 G
+| DEÐEERLENDÝRME : 4****
+| SATILMA SAYISI : 0
++----------------------------------+
+23. ÜRÜN 
++----------------------------------+
+| ÝD : 553_997_003
+| MARKA : rolex
+| MODEL : Submariner
+| MALÝYET : 12000 TL
+| FÝYATI : 30000 TL
+| ÜRETÝM TARÝHÝ : 05.03.2020
+| CÝNSÝYET : erkek
+| MEKANÝZMA : mekanik
+| RENK : yeÅŸil
+| PÝL KAPASÝTESÝ : 4500 mAh
+| SUYA DAYANIKLIK : 30 ATM
+| GECE IÞIÐI : evet
+| KASA ÇAPI : 40mm
+| KASA MATERYALI : altÄ±n
+| KORDON MATERYALI : celik
+| AÐIRLIK : 150 G
+| DEÐEERLENDÝRME : 5*****
+| SATILMA SAYISI : 0
++----------------------------------+
+24. ÜRÜN 
++----------------------------------+
+| ÝD : 553_997_004
+| MARKA : omega
+| MODEL : Speedmaster
+| MALÝYET : 5000 TL
+| FÝYATI : 15000 TL
+| ÜRETÝM TARÝHÝ : 01.01.2019
+| CÝNSÝYET : unisex
+| MEKANÝZMA : otomatik
+| RENK : mavi
+| PÝL KAPASÝTESÝ : 4200 mAh
+| SUYA DAYANIKLIK : 20 ATM
+| GECE IÞIÐI : yok
+| KASA ÇAPI : 44mm
+| KASA MATERYALI : seramik
+| KORDON MATERYALI : silikon
+| AÐIRLIK : 100 G
+| DEÐEERLENDÝRME : 4****
+| SATILMA SAYISI : 0
++----------------------------------+
+25. ÜRÜN 
++----------------------------------+
+| ÝD : 553_997_005
+| MARKA : tissot
+| MODEL : Le Locle
+| MALÝYET : 700 TL
+| FÝYATI : 2000 TL
+| ÜRETÝM TARÝHÝ : 20.10.2022
+| CÝNSÝYET : kadÄ±n
+| MEKANÝZMA : quartz
+| RENK : pembe
+| PÝL KAPASÝTESÝ : 3900 mAh
+| SUYA DAYANIKLIK : 5 ATM
+| GECE IÞIÐI : evet
+| KASA ÇAPI : 36mm
+| KASA MATERYALI : paslanmaz celik
+| KORDON MATERYALI : deri
+| AÐIRLIK : 60 G
+| DEÐEERLENDÝRME : 3***
+| SATILMA SAYISI : 0
++----------------------------------+
+26. ÜRÜN 
++----------------------------------+
+| ÝD : 553_997_006
+| MARKA : citizen
+| MODEL : Eco-Drive
+| MALÝYET : 850 TL
+| FÝYATI : 2500 TL
+| ÜRETÝM TARÝHÝ : 12.06.2021
+| CÝNSÝYET : erkek
+| MEKANÝZMA : solar
+| RENK : gri
+| PÝL KAPASÝTESÝ : 4000 mAh
+| SUYA DAYANIKLIK : 10 ATM
+| GECE IÞIÐI : yok
+| KASA ÇAPI : 42mm
+| KASA MATERYALI : titanyum
+| KORDON MATERYALI : silikon
+| AÐIRLIK : 90 G
+| DEÐEERLENDÝRME : 4****
+| SATILMA SAYISI : 0
++----------------------------------+
+27. ÜRÜN 
++----------------------------------+
+| ÝD : 553_997_007
+| MARKA : tag heuer
+| MODEL : Carrera
+| MALÝYET : 3000 TL
+| FÝYATI : 8000 TL
+| ÜRETÝM TARÝHÝ : 25.12.2020
+| CÝNSÝYET : erkek
+| MEKANÝZMA : otomatik
+| RENK : kÄ±rmÄ±zÄ±
+| PÝL KAPASÝTESÝ : 4200 mAh
+| SUYA DAYANIKLIK : 15 ATM
+| GECE IÞIÐI : evet
+| KASA ÇAPI : 45mm
+| KASA MATERYALI : paslanmaz celik
+| KORDON MATERYALI : Ã§elik
+| AÐIRLIK : 130 G
+| DEÐEERLENDÝRME : 5*****
+| SATILMA SAYISI : 0
++----------------------------------+
+28. ÜRÜN 
++----------------------------------+
+| ÝD : 553_997_008
+| MARKA : breitling
+| MODEL : Navitimer
+| MALÝYET : 6000 TL
+| FÝYATI : 15000 TL
+| ÜRETÝM TARÝHÝ : 18.04.2019
+| CÝNSÝYET : unisex
+| MEKANÝZMA : mekanik
+| RENK : sarÄ±
+| PÝL KAPASÝTESÝ : 4100 mAh
+| SUYA DAYANIKLIK : 20 ATM
+| GECE IÞIÐI : yok
+| KASA ÇAPI : 41mm
+| KASA MATERYALI : altÄ±n
+| KORDON MATERYALI : deri
+| AÐIRLIK : 140 G
+| DEÐEERLENDÝRME : 5*****
+| SATILMA SAYISI : 0
++----------------------------------+
+29. ÜRÜN 
++----------------------------------+
+| ÝD : 553_997_009
+| MARKA : longines
+| MODEL : HydroConquest
+| MALÝYET : 2000 TL
+| FÝYATI : 5000 TL
+| ÜRETÝM TARÝHÝ : 07.11.2020
+| CÝNSÝYET : kadÄ±n
+| MEKANÝZMA : quartz
+| RENK : kahverengi
+| PÝL KAPASÝTESÝ : 3700 mAh
+| SUYA DAYANIKLIK : 5 ATM
+| GECE IÞIÐI : evet
+| KASA ÇAPI : 38mm
+| KASA MATERYALI : seramik
+| KORDON MATERYALI : silikon
+| AÐIRLIK : 85 G
+| DEÐEERLENDÝRME : 4****
+| SATILMA SAYISI : 0
++----------------------------------+
+30. ÜRÜN 
++----------------------------------+
+| ÝD : 553_997_010
+| MARKA : patek philippe
+| MODEL : Aquanaut
+| MALÝYET : 15000 TL
+| FÝYATI : 40000 TL
+| ÜRETÝM TARÝHÝ : 30.06.2018
+| CÝNSÝYET : erkek
+| MEKANÝZMA : otomatik
+| RENK : mavi
+| PÝL KAPASÝTESÝ : 4300 mAh
+| SUYA DAYANIKLIK : 25 ATM
+| GECE IÞIÐI : evet
+| KASA ÇAPI : 42mm
+| KASA MATERYALI : altÄ±n
+| KORDON MATERYALI : celik
+| AÐIRLIK : 160 G
+| DEÐEERLENDÝRME : 5*****
+| SATILMA SAYISI : 0
++----------------------------------+
